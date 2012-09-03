@@ -1,6 +1,6 @@
 {
 	"name": "mocha2",
-	"version": "1.4.0",
+	"version": "1.4.1",
 	"description": "simple, flexible, fun test framework - fork of mocha by TJ Holowaychuk <tj@vision-media.ca>",
 	"keywords": ["test", "bdd", "tdd", "tap"],
 	"author": "Harald Rudell <harald@allgoodapps.com> (http://www.haraldrudell.com)",
